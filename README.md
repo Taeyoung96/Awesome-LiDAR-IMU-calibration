@@ -18,9 +18,11 @@ Target means calibration target.
 |Paper|Published|Target|Key words|Code|  
 | --- | --- | --- | --- | --- |
 |3D Lidar-IMU Calibration Based on Upsampled Preintegrated Measurements for Motion Distortion Correction|[ICRA 2018](https://ieeexplore.ieee.org/document/8460179)|S+T|IMU Preintegration, Plane association|X|  
+|Error modeling and extrinsic–intrinsic calibration for LiDAR-IMU system based on cone-cylinder features|[RAS 2019](https://www.sciencedirect.com/science/article/pii/S092188901730636X)|S| Cone-cylinder features  |X|  
 |Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation|[IROS 2020](https://ieeexplore.ieee.org/abstract/document/9341405)|S|Continous time trajectory, Surfel map|[LI-Calib](https://github.com/APRIL-ZJU/lidar_IMU_calib)| 
 |A Novel Multifeature Based On-Site Calibration Method for LiDAR-IMU System|[TIE 2020](https://ieeexplore.ieee.org/abstract/document/8924904)|S| - |X|  
 |Motion-based Calibration between Multiple LiDARs and INS with Rigid Body Constraint on Vehicle Platform|[IV 2020](https://ieeexplore.ieee.org/abstract/document/9304532)|S| - |X|  
+|Efficient Multi-sensor Aided Inertial Navigation with Online Calibration|[ICRA 2021](https://ieeexplore.ieee.org/abstract/document/9561254)|S| - |X|  
 |Target-free Extrinsic Calibration of a 3D-Lidar and an IMU|[MFI 2021](https://ieeexplore.ieee.org/abstract/document/9591180)|S|EKF based|[imu_lidar_calibration](https://github.com/unmannedlab/imu_lidar_calibration)|  
 |3D LiDAR/IMU Calibration Based on Continuous-Time Trajectory Estimation in Structured Environments|[IEEE Access 2021](https://ieeexplore.ieee.org/abstract/document/9543701)|S|Continuous-Time Trajectory, Gaussian process(GP) regression|X|  
 |Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems|[TRO 2022](https://ieeexplore.ieee.org/abstract/document/9787062)|S|LI-Calib extension version|[OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib)|  
