@@ -1,6 +1,6 @@
 # Awesome-LiDAR-IMU-calibration [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)    
 
-> :sunglasses: A current list of LiDAR-IMU calibration method
+:sunglasses: A current list of LiDAR-IMU calibration method
 
 ## Introduction  
 
