@@ -21,13 +21,13 @@ Target means calibration target.
 |Error modeling and extrinsic–intrinsic calibration for LiDAR-IMU system based on cone-cylinder features|[RAS 2019](https://www.sciencedirect.com/science/article/pii/S092188901730636X)|S| Cone-cylinder features, IMU intrinsic parameter, EKF based  |X|  
 |Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation|[IROS 2020](https://ieeexplore.ieee.org/abstract/document/9341405)|S|Continous time trajectory, Surfel map|[LI-Calib](https://github.com/APRIL-ZJU/lidar_IMU_calib)| 
 |A Novel Multifeature Based On-Site Calibration Method for LiDAR-IMU System|[TIE 2020](https://ieeexplore.ieee.org/abstract/document/8924904)|S|Multi-type geometric features, Cone-cylinder features(RAS 2019) extended version  |X|  
-|Motion-based Calibration between Multiple LiDARs and INS with Rigid Body Constraint on Vehicle Platform|[IV 2020](https://ieeexplore.ieee.org/abstract/document/9304532)|S| - |X|  
-|Efficient Multi-sensor Aided Inertial Navigation with Online Calibration|[ICRA 2021](https://ieeexplore.ieee.org/abstract/document/9561254)|S| - |X|  
+|Motion-based Calibration between Multiple LiDARs and INS with Rigid Body Constraint on Vehicle Platform|[IV 2020](https://ieeexplore.ieee.org/abstract/document/9304532)|S|Graph structure-based optimization, Multiple LiDAR |X|  
+|Efficient Multi-sensor Aided Inertial Navigation with Online Calibration|[ICRA 2021](https://ieeexplore.ieee.org/abstract/document/9561254)|S+T|MSCKF based, Multi-sensor INS,  |X|  
 |Target-free Extrinsic Calibration of a 3D-Lidar and an IMU|[MFI 2021](https://ieeexplore.ieee.org/abstract/document/9591180)|S|EKF based|[imu_lidar_calibration](https://github.com/unmannedlab/imu_lidar_calibration)|  
 |3D LiDAR/IMU Calibration Based on Continuous-Time Trajectory Estimation in Structured Environments|[IEEE Access 2021](https://ieeexplore.ieee.org/abstract/document/9543701)|S|Continuous-Time Trajectory, Gaussian process(GP) regression|X|  
 |Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems|[TRO 2022](https://ieeexplore.ieee.org/abstract/document/9787062)|S|LI-Calib(IROS 2020) extension version|[OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib)|  
 |Robust Real-time LiDAR-inertial Initialization|[IROS 2022](https://arxiv.org/abs/2202.11006)|S+T|IESKF based, FAST-LIO initialization|[LI-Init](https://github.com/hku-mars/LiDAR_IMU_Init)|  
-|An Extrinsic Calibration Method of a 3D-LiDAR and a Pose Sensor for Autonomous Driving|[Arxiv 2022](https://arxiv.org/pdf/2209.07694.pdf)|S|LiDAR-INS calib part of OpenCalib|[LiDAR2INS](https://github.com/OpenCalib/LiDAR2INS)|  
+|An Extrinsic Calibration Method of a 3D-LiDAR and a Pose Sensor for Autonomous Driving|[Arxiv 2022](https://arxiv.org/pdf/2209.07694.pdf)|S|LiDAR-INS calibration part of OpenCalib|[LiDAR2INS](https://github.com/OpenCalib/LiDAR2INS)|  
 
 ## Other toolboxes  
 
