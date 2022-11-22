@@ -25,7 +25,7 @@ Target means calibration target.
 |Efficient Multi-sensor Aided Inertial Navigation with Online Calibration|[ICRA 2021](https://ieeexplore.ieee.org/abstract/document/9561254)|S+T|MSCKF based, Multi-sensor INS,  |X|  
 |Target-free Extrinsic Calibration of a 3D-Lidar and an IMU|[MFI 2021](https://ieeexplore.ieee.org/abstract/document/9591180)|S|EKF based|[imu_lidar_calibration](https://github.com/unmannedlab/imu_lidar_calibration)|  
 |3D LiDAR/IMU Calibration Based on Continuous-Time Trajectory Estimation in Structured Environments|[IEEE Access 2021](https://ieeexplore.ieee.org/abstract/document/9543701)|S|Continuous-Time Trajectory, Gaussian process(GP) regression|X|  
-|Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems|[TRO 2022](https://ieeexplore.ieee.org/abstract/document/9787062)|S|LI-Calib(IROS 2020) extension version|[OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib)|  
+|Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems|[TRO 2022](https://ieeexplore.ieee.org/abstract/document/9787062)|S+|LI-Calib(IROS 2020) extension version|[OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib)|  
 |Robust Real-time LiDAR-inertial Initialization|[IROS 2022](https://arxiv.org/abs/2202.11006)|S+T|IESKF based, FAST-LIO initialization|[LI-Init](https://github.com/hku-mars/LiDAR_IMU_Init)|  
 |An Extrinsic Calibration Method of a 3D-LiDAR and a Pose Sensor for Autonomous Driving|[Arxiv 2022](https://arxiv.org/pdf/2209.07694.pdf)|S|LiDAR-INS calibration part of OpenCalib|[LiDAR2INS](https://github.com/OpenCalib/LiDAR2INS)|  
 
