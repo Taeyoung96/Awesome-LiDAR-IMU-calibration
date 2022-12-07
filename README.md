@@ -19,7 +19,7 @@ Target means calibration target.
 | --- | --- | --- | --- | --- |
 |3D Lidar-IMU Calibration Based on Upsampled Preintegrated Measurements for Motion Distortion Correction|[ICRA 2018](https://ieeexplore.ieee.org/document/8460179)|S+T|IMU Preintegration, Plane association|X|  
 |Error modeling and extrinsic–intrinsic calibration for LiDAR-IMU system based on cone-cylinder features|[RAS 2019](https://www.sciencedirect.com/science/article/pii/S092188901730636X)|S| Cone-cylinder features, IMU intrinsic parameter, EKF based  |X|  
-|Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation|[IROS 2020](https://ieeexplore.ieee.org/abstract/document/9341405)|S|Continous time trajectory, Surfel map|[LI-Calib](https://github.com/APRIL-ZJU/lidar_IMU_calib)| 
+|Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation|[IROS 2020](https://ieeexplore.ieee.org/abstract/document/9341405)|S+T|Continous time trajectory, Surfel map|[LI-Calib](https://github.com/APRIL-ZJU/lidar_IMU_calib)| 
 |A Novel Multifeature Based On-Site Calibration Method for LiDAR-IMU System|[TIE 2020](https://ieeexplore.ieee.org/abstract/document/8924904)|S|Multi-type geometric features, Cone-cylinder features(RAS 2019) extended version  |X|  
 |Motion-based Calibration between Multiple LiDARs and INS with Rigid Body Constraint on Vehicle Platform|[IV 2020](https://ieeexplore.ieee.org/abstract/document/9304532)|S|Graph structure-based optimization, Multiple LiDAR |X|  
 |Efficient Multi-sensor Aided Inertial Navigation with Online Calibration|[ICRA 2021](https://ieeexplore.ieee.org/abstract/document/9561254)|S+T|MSCKF based, Multi-sensor INS,  |X|  
