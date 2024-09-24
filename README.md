@@ -28,7 +28,7 @@ Target means calibration target.
 |Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems|[TRO 2022](https://ieeexplore.ieee.org/abstract/document/9787062)|S+T|LI-Calib(IROS 2020) extension version|[OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib)|  
 |Robust Real-time LiDAR-inertial Initialization|[IROS 2022](https://arxiv.org/abs/2202.11006)|S+T|IESKF based, FAST-LIO initialization|[LI-Init](https://github.com/hku-mars/LiDAR_IMU_Init)|  
 |An Extrinsic Calibration Method of a 3D-LiDAR and a Pose Sensor for Autonomous Driving|[Arxiv 2022](https://arxiv.org/pdf/2209.07694.pdf)|S|LiDAR-INS calibration part of OpenCalib|[LiDAR2INS](https://github.com/OpenCalib/LiDAR2INS)|  
-|AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry|[ISPRS 2023](https://www.sciencedirect.com/science/article/pii/S092427162300093X)|S|Continuous-time model, Optimization based|-|  
+|AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry|[ISPRS 2023](https://www.sciencedirect.com/science/article/pii/S092427162300093X)|S|Continuous-time model, Optimization based|[AFLI-Calib](https://github.com/DCSI2022/AFLI_Calib)|  
 |GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints|[RAL 2024](https://ieeexplore.ieee.org/document/10506583)|S+T|LiDAR-IMU calibration for ground robot|[GRIL-Calib](https://github.com/Taeyoung96/GRIL-Calib)|  
 
 
