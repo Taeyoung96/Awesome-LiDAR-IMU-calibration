@@ -29,7 +29,8 @@ Target means calibration target.
 |Robust Real-time LiDAR-inertial Initialization|[IROS 2022](https://arxiv.org/abs/2202.11006)|S+T|IESKF based, FAST-LIO initialization|[LI-Init](https://github.com/hku-mars/LiDAR_IMU_Init)|  
 |An Extrinsic Calibration Method of a 3D-LiDAR and a Pose Sensor for Autonomous Driving|[Arxiv 2022](https://arxiv.org/pdf/2209.07694.pdf)|S|LiDAR-INS calibration part of OpenCalib|[LiDAR2INS](https://github.com/OpenCalib/LiDAR2INS)|  
 |AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry|[ISPRS 2023](https://www.sciencedirect.com/science/article/pii/S092427162300093X)|S|Continuous-time model, Optimization based|[AFLI-Calib](https://github.com/DCSI2022/AFLI_Calib)|  
-|GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints|[RAL 2024](https://ieeexplore.ieee.org/document/10506583)|S+T|LiDAR-IMU calibration for ground robot|[GRIL-Calib](https://github.com/Taeyoung96/GRIL-Calib)|  
+|GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints|[RAL 2024](https://ieeexplore.ieee.org/document/10506583)|S+T|LiDAR-IMU calibration for ground robot|[GRIL-Calib](https://github.com/Taeyoung96/GRIL-Calib)| 
+|L2Calib: SE(3)-Manifold Reinforcement Learning for Robust Extrinsic Calibration with Degenerate Motion Resilience|[IROS 2025](https://arxiv.org/pdf/2508.06330)|S|Reinforcement learning-based extrinsic calibration method|[learn-to-calibrate](https://github.com/APRIL-ZJU/learn-to-calibrate)|
 
 
 ## Other toolboxes  
